@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\bin\Debug\net8.0\CSHARP-projeto-musical.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\bin\Debug\net8.0\CSHARP-projeto-musical.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\bin\Debug\net8.0\CSHARP-projeto-musical.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\bin\Debug\net8.0\CSHARP-projeto-musical.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\bin\Debug\net8.0\CSHARP-projeto-musical.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.sourcelink.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\refint\CSHARP-projeto-musical.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\CSHARP-projeto-musical.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Estudos\Kotlin\CSHARP-projeto-musical\obj\Debug\net8.0\ref\CSHARP-projeto-musical.dll
